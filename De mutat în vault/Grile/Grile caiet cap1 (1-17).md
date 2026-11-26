@@ -25,7 +25,7 @@ status: 🟡 rezolvat 26.11, parțial verificat
 - a. abrogarea normei completatoare atrage automat şi abrogarea normei incomplete;
 - b. la momentul abrogării normei completatoare, norma incompletă îşi păstrează elementele preluate de la norma completatoare;
 - c. normele incomplete pot fi completate de acte juridice de aceeaşi forţă sau de forţă superioară.
-- Răspunsul meu (26.11): **c** · Corect: **c sigur; b nesigur (normă de trimitere vs de referire)** · Sursă: de verificat manual pp. 36–45 / barem
+- Răspunsul meu (26.11): **c** · Corect: **bc** ❌ (am omis b) · Sursă: Legea 187/2012 (LPA) — normă tranzitorie: la abrogarea normei completatoare, norma incompletă păstrează elementele preluate (nr. articolului de verificat); c: CCR 405/2016, C2
 
 **4. Sunt izvoare ale dreptului penal:** (p. 13–14)
 - a. toate legile adoptate de Parlament după intrarea în vigoare a Constituţiei din 1991;
@@ -79,7 +79,7 @@ status: 🟡 rezolvat 26.11, parțial verificat
 - a. permisivă reprezintă expresia încrederii în posibilitatea de reintegrare socială a infractorului;
 - b. incompletă va fi abrogată atunci când este abrogată norma penală completatoare;
 - c. prohibitivă impune abţinerea de la comiterea unei fapte.
-- Răspunsul meu (26.11): **c** · Corect: **c ✅; a nesigur (definiția normei permisive)** · Sursă: de verificat manual pp. 36–45
+- Răspunsul meu (26.11): **c** · Corect: **c** ✅ · a probabil fals (normele permisive permit o conduită, ex. cauzele justificative), b fals (LPA) · Sursă: de verificat manual pp. 36–45
 
 **13. Raportul juridic de drept penal:** (p. 16–17)
 - a. încetează în toate situaţiile în care se pierde calitatea specială cerută de lege, atunci când obligaţia impusă de preceptul normei penale se adresează unor persoane care trebuie să deţină o anumită calitate;
